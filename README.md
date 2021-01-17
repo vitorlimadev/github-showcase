@@ -1,4 +1,4 @@
-# github-api-consumer
+# Github Showcase
 A React app that consumes the Github API to show repositories information.
 
 
